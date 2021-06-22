@@ -1,2 +1,3 @@
 #s-telekom
-my first MEVN project
+
+Первый пробный проект на VUE.
